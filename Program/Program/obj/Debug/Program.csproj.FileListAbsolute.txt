@@ -1,0 +1,10 @@
+C:\Users\Oleh Pashuk\Desktop\homework6\Program\Program\bin\Debug\Program.exe.config
+C:\Users\Oleh Pashuk\Desktop\homework6\Program\Program\bin\Debug\Program.exe
+C:\Users\Oleh Pashuk\Desktop\homework6\Program\Program\bin\Debug\Program.pdb
+C:\Users\Oleh Pashuk\Desktop\homework6\Program\Program\bin\Debug\ClassLibrary1.dll
+C:\Users\Oleh Pashuk\Desktop\homework6\Program\Program\bin\Debug\ClassLibrary1.pdb
+C:\Users\Oleh Pashuk\Desktop\homework6\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Oleh Pashuk\Desktop\homework6\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Oleh Pashuk\Desktop\homework6\Program\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\Oleh Pashuk\Desktop\homework6\Program\Program\obj\Debug\Program.exe
+C:\Users\Oleh Pashuk\Desktop\homework6\Program\Program\obj\Debug\Program.pdb
